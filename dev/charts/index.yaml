@@ -3,6 +3,16 @@ entries:
   chart-1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-19T09:45:38.715950203Z"
+    description: A Helm chart for Kubernetes
+    digest: 1562619d6f7ee667d5cd6da66f3730d9c5dfb12ef36544ce9615fe30f4aa387d
+    name: chart-1
+    type: application
+    urls:
+    - https://aweris.github.io/gha/dev/charts/chart-1-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-19T09:13:52.63056991Z"
     description: A Helm chart for Kubernetes
     digest: 5424a962836324316eb9e54e573b01c9b1b82e41ea3f9b5da79714517084fbe7
@@ -14,6 +24,16 @@ entries:
   chart-2:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-19T09:45:38.716416229Z"
+    description: A Helm chart for Kubernetes
+    digest: 4e38f68a0fbbcf7eee3ff45c833d4a730d61cb035ba26ad1636a79d70837e436
+    name: chart-2
+    type: application
+    urls:
+    - https://aweris.github.io/gha/dev/charts/chart-2-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-19T09:13:52.631627119Z"
     description: A Helm chart for Kubernetes
     digest: 2d6f079bf322ae564728304c60e2a80fd82e02aaac616b21736e7b503685b3da
@@ -22,4 +42,4 @@ entries:
     urls:
     - https://aweris.github.io/gha/dev/charts/chart-2-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-19T09:13:52.629322999Z"
+generated: "2022-10-19T09:45:38.715295167Z"
